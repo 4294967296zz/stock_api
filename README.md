@@ -14,8 +14,5 @@ Develop Restful API with open API provided by Daishin Securities!
 
 > Framework : Flask
 
-***
-
-> win32com.client 사용과 증권사 API의 특성상, Windows가 64bit여도 python을 32비트로 설치해야함.
 
 
