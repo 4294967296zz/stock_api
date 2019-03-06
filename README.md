@@ -6,7 +6,7 @@ Develop Restful API with open API provided by Daishin Securities!
 
 ***
 
-##[개발관경]
+## [개발환경]
 
 > Windows 10 64bit
 
