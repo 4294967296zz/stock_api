@@ -10,7 +10,7 @@ Develop Restful API with open API provided by Daishin Securities!
 
 > Windows 10 64bit
 
-> Python 3.2
+> Python 3.5 ( Anaconda )
 
 > Framework : Flask
 
