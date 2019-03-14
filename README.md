@@ -47,5 +47,8 @@ Develop Restful API with open API provided by Daishin Securities!
  
  ## [ 진행 사항 ]
  
- app.route 지정하고, 필수값 지정하여 데이터 조회 후 json 으로 변환하여 return.
+ 모듈에 app.route 지정하고, 필수값 지정하여 데이터 조회 후 json 으로 변환하여 return.
+ 
+ Create new paths and end points with nedded parameters by module's "app.route". Any data can be provided from OPEN API if it exists.
+ 
 
