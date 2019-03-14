@@ -43,4 +43,9 @@ Develop Restful API with open API provided by Daishin Securities!
  - 시장명으로 해당 주식시장의 모든 종목을 리스팅하여 json 형식으로 데이터 제공.
  
  - ex) http://test.url/codelist?market=11
+ 
+ 
+ ## [ 진행 사항 ]
+ 
+ app.route 지정하고, 필수값 지정하여 데이터 조회 후 json 으로 변환하여 return.
 
