@@ -49,6 +49,7 @@ Develop Restful API with open API provided by Daishin Securities!
  
  모듈에 app.route 지정하고, 필수값 지정하여 데이터 조회 후 json 으로 변환하여 return.
  
- Create new paths and end points with needed parameters by adding module's "app.route". Any data can be retrieved from OPEN API by parameter's . When it hits end point with needed parameter, returns retrieve data after converting to json.
+ Create new paths and end points with needed parameters by adding module's "app.route". Any data can be retrieved from OPEN API by parameters . When it hits end point with needed parameter, returns retrieve data after converting to json.
+ Trying to add validation to check the datas while receiving parameters. 
  
 
