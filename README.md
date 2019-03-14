@@ -13,6 +13,8 @@ Develop Restful API with open API provided by Daishin Securities!
 > Python 3.5 ( Anaconda ) with FLASK
 
 
+
+
 종목코드로 주식 기본정보 조회
 
 
